@@ -7,7 +7,7 @@ class App < Sinatra::Base
 end
 
   get '/nutritious' do
-    Has lots ofiber"</h1>
+   ""as lots ofiber"</h1>
   end
   
 end
